@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShauryaSood2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-- 🔭 I’m currently working on [PayWay](https://github.com/ShauryaSood2003/PayWay)
 
 - 👨‍💻 All of my projects are available at [https://shauryasportfolio.netlify.app/](https://shauryasportfolio.netlify.app/)
 
