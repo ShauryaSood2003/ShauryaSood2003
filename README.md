@@ -46,6 +46,6 @@
 <a href="https://twitter.com/shauyasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shauyasood" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaurya-sood-87b968208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-sood-87b968208" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shauryasood293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shauryasood293" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaurya_sood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya_sood" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya_sood" height="30" width="40" /></a>
 </p>
 
