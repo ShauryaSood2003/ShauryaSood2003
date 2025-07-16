@@ -53,6 +53,6 @@
 
 <div align="center">
   
-  <img src="https://alpha.91springboard.com/assets/logo91S_black-Bm-WvmqZ.png" height="150" alt="languages graph"  />
+  <img src="https://91s-dev.s3.ap-south-1.amazonaws.com/profile/5720c49a-4ee3-41ff-8fef-bd2cfd47f9ff" height="150" alt="languages graph"  />
 </div>
 
