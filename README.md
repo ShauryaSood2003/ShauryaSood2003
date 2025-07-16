@@ -41,10 +41,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-left: 2px;"/>
 </p>
 
-<div align="center">
-  
-  <img src="https://ibb.co/v4j2Frgz" height="150" alt="languages graph"  />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,4 +49,10 @@
 <a href="https://codesandbox.com/shauryasood293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shauryasood293" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya_sood" height="30" width="40" /></a>
 </p>
+
+
+<div align="center">
+  
+  <img src="https://alpha.91springboard.com/assets/logo91S_black-Bm-WvmqZ.png" height="150" alt="languages graph"  />
+</div>
 
