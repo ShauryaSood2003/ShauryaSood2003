@@ -41,6 +41,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-left: 2px;"/>
 </p>
 
+<div align="center">
+  
+  <img src="https://ibb.co/v4j2Frgz" height="150" alt="languages graph"  />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shauyasood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shauyasood" height="30" width="40" /></a>
